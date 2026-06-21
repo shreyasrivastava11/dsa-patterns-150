@@ -1,10 +1,10 @@
-# DSA Pattern 150 🚀
+# DSA Pattern 150
 
 A structured Java repository documenting my journey through the **NeetCode 150** roadmap to master **Data Structures & Algorithms** and prepare for **Software Development Engineer (SDE)** interviews.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 This repository is dedicated to improving my problem-solving skills by solving the NeetCode 150 problems in Java.
 
@@ -18,13 +18,13 @@ My focus is to:
 
 ---
 
-## 💻 Language
+## Language
 
 - Java ☕
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 - ✅ Arrays & Hashing
 - ⏳ Two Pointers
@@ -45,7 +45,7 @@ My focus is to:
 
 ---
 
-## 🧠 Learning Approach
+## Learning Approach
 
 For every problem, I follow this process:
 
@@ -58,15 +58,15 @@ For every problem, I follow this process:
 
 ---
 
-## 📈 Progress
+## Progress
 
 I continuously update this repository as I progress through the NeetCode 150 roadmap.
 
-**Current Status:** 🚀 In Progress
+**Current Status:** In Progress
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Topic/
@@ -80,7 +80,7 @@ Topic/
 
 ---
 
-## ⭐ Goals
+## Goals
 
 - Complete the NeetCode 150 roadmap.
 - Strengthen DSA fundamentals.
@@ -89,7 +89,7 @@ Topic/
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - GitHub: **@shreyasrivastava11**
 
