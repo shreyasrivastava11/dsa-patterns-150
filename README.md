@@ -2,8 +2,6 @@
 
 A structured Java repository documenting my journey through the **NeetCode 150** roadmap to master **Data Structures & Algorithms** and prepare for **Software Development Engineer (SDE)** interviews.
 
----
-
 ## Objective
 
 This repository is dedicated to improving my problem-solving skills by solving the NeetCode 150 problems in Java.
@@ -16,13 +14,9 @@ My focus is to:
 - Analyze Time & Space Complexity
 - Prepare for coding interviews at product-based companies
 
----
-
 ## Language
 
 - Java
-
----
 
 ## Topics Covered
 
@@ -43,8 +37,6 @@ My focus is to:
 - ⏳ Bit Manipulation
 - ⏳ Math & Geometry
 
----
-
 ## Learning Approach
 
 For every problem, I follow this process:
@@ -56,15 +48,11 @@ For every problem, I follow this process:
 5. Analyze Space Complexity.
 6. Learn the underlying DSA pattern instead of memorizing solutions.
 
----
-
 ## Progress
 
 I continuously update this repository as I progress through the NeetCode 150 roadmap.
 
 **Current Status:** In Progress
-
----
 
 ## Repository Structure
 
@@ -78,8 +66,6 @@ Topic/
 │   ├── Java Solution
 ```
 
----
-
 ## Goals
 
 - Complete the NeetCode 150 roadmap.
@@ -87,12 +73,8 @@ Topic/
 - Become confident in solving unseen interview problems.
 - Crack SDE interviews at top product-based companies.
 
----
-
 ## Connect With Me
 
 - GitHub: **@shreyasrivastava11**
-
----
 
 > *"Consistency beats intensity. One problem solved with understanding is better than ten solved by memorization."*
