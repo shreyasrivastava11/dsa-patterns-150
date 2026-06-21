@@ -20,7 +20,7 @@ My focus is to:
 
 ## Language
 
-- Java ☕
+- Java
 
 ---
 
